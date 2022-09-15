@@ -1,4 +1,4 @@
-runfile('C:/Users/eagleda/Downloads/covid19_statistics_21101205_이다용.py', wdir='C:/Users/eagleda/Downloads')
+
 ### Korean Population by Region
 * Total population: 51669716
 
